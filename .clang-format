@@ -5,7 +5,7 @@ ColumnLimit: 120
 IndentWidth: 4
 ContinuationIndentWidth: 4
 TabWidth: 4
-UseTab: Always
+UseTab: Never
 BreakBeforeBraces: Linux
 AllowShortIfStatementsOnASingleLine: false
 IndentCaseLabels: true
