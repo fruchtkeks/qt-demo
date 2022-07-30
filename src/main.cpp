@@ -1,11 +1,11 @@
 #include <QApplication>
 #include <QPushButton>
 
-int main(int argc, char **argv)
+int main(int _argc, char** _argv)
 {
-    QApplication app (argc, argv);
+    QApplication app(_argc, _argv);
 
-    QPushButton button ("Hello World!");
+    QPushButton button("Hello World!");
     button.show();
 
     return app.exec();
